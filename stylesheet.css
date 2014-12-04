@@ -148,15 +148,15 @@ Application CSS - Page Container
 }
 
 nav a {
-	color: #888;
+	color: #444;
 }
 
 nav a:visited {
-	color: #888;	
+	color: #444;	
 }
 
 nav a:hover {
-	color: black;
+	color: #888;
 }
 
 #login {
